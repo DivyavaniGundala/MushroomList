@@ -39,18 +39,15 @@ Mushroom name and more info.
 
 # ScreenShorts:
 
-login Validation:
-
 
 <img width="283" alt="Screenshot 2025-04-15 at 5 28 25 PM" src="https://github.com/user-attachments/assets/e4fa97b7-5b39-4235-b597-1ecc5c8f0350" />
 
-Login Sucessfull:
+
 <img width="271" alt="Screenshot 2025-04-15 at 5 27 46 PM" src="https://github.com/user-attachments/assets/b42aaaa1-6e5f-4750-afcc-c88f9f6abf3b" />
 
-List of mushroom:
+
 <img width="272" alt="Screenshot 2025-04-15 at 5 27 57 PM" src="https://github.com/user-attachments/assets/78daf093-95d3-4c6e-b501-0c5891979979" />
 
-Mushroom Detail:
 
 <img width="271" alt="Screenshot 2025-04-15 at 5 28 11 PM" src="https://github.com/user-attachments/assets/488e1884-9d4d-4cff-975b-f39e224793fd" />
 
